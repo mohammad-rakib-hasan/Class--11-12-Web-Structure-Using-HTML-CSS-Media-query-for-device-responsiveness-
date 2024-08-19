@@ -1,0 +1,360 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+ background-image: url('image/black.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ 
+height:300px ;
+overflow:hidden;
+color: #B4D6CD;
+}
+.body{
+    width: 100%;
+    margin-top: 10px;
+    overflow:hidden
+}
+.border{
+    background-image: url(image/Japan.jpg);
+    float: left;
+    height: 400px;
+    width: 32.5%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 10px;
+    margin-top: 10px;
+    overflow:hidden;
+    text-align: center;
+    color:#D8EFD3;
+}
+.border2{
+    background-image: url(image/Slovenia.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    float: left;
+    height: 400px;
+    width: 32.5%;
+    margin-left: 10px;
+    margin-top: 10px;
+    overflow:hidden;
+    text-align: center;
+    color: #7a0b3f;
+}
+.border3{
+    background-image: url(image/swiz.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    float: left;
+     height: 400px;
+     width: 32.5%;
+     margin-left: 10px;
+    margin-top: 10px;
+    overflow:hidden;
+    text-align: center;
+    color:#FF8225;
+}
+.border4{
+    background-image: url(image/Duba.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 32.5%;
+    margin-left: 10px;
+    margin-top: 20px;
+    overflow:hidden;
+    float: left;
+    text-align: center;
+    color: #000000;
+    
+    
+}
+.border5{
+    background-image: url(image/new\ za.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    float:left;
+    height: 400px;
+    width: 32.5%;
+    margin-left: 10px;
+    margin-top: 20px;
+    overflow:hidden;
+    text-align: center;
+    color: #105c55;
+}
+.border6{
+    background-image: url(image/kasmir.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    float:left;
+    height: 400px;
+    width: 32.5%;
+    margin-left: 10px;
+    margin-top: 20px;
+    overflow:hidden;
+    text-align: center;
+    color: #41051e;
+}
+.footer{
+    height: 800px;
+    background-image: linear-gradient(to top,#37B7C3, #1A3636);
+    
+    margin-top: 20px;
+    
+}
+
+.footer-2{
+    width: 33%;
+    float: left;
+    margin-top: 10px;
+    color: antiquewhite;
+}
+
+.link{
+    text-decoration: none;
+    margin-top: 3px;
+}
+@media screen and (max-width:1216px) {
+    .header{
+        color: #91DDCF;
+        height: 200px;
+    }   
+}
+@media screen and (max-width: 1216px) {
+    .border{
+        width: 32%;
+        height: 350px;
+    }
+    
+}
+@media screen and (max-width: 1216px) {
+    .border2{
+        width: 32%;
+        height: 350px;
+    }
+    
+}
+@media screen and (max-width: 1216px) {
+    .border3{
+        width: 32%;
+        height: 350px;
+    }
+    
+}
+@media screen and (max-width: 1216px) {
+    .border4{
+        width: 32%;
+        height: 350px;
+    }
+    
+}
+@media screen and (max-width: 1216px) {
+    .border5{
+        width: 32%;
+        height: 350px;
+    }
+    
+}
+@media screen and (max-width: 1216px) {
+    .border6{
+        width: 32%;
+        height: 350px;
+    }
+
+    
+
+}
+ 
+@media screen and (max-width:766px) {
+    .header{
+        color: #D6EFD8;
+        height: 180px;
+    }   
+}
+@media screen and (max-width: 766px) {
+    .border{
+        width: 31%;
+        height: 270px;
+    }
+    
+}
+@media screen and (max-width: 766px) {
+    .border2{
+        width: 31%;
+        height: 270px;
+    }
+    
+}
+@media screen and (max-width: 766px) {
+    .border3{
+        width: 31%;
+        height: 270px;
+    }
+    
+}
+@media screen and (max-width: 766px) {
+    .border4{
+        width: 31%;
+        height: 270px;
+    }
+    
+}
+@media screen and (max-width: 766px) {
+    .border5{
+        width: 31%;
+        height: 270px;
+    }
+    
+}
+@media screen and (max-width: 766px) {
+    .border6{
+        width: 31%;
+        height: 270px;
+    }
+    
+}
+
+
+
+@media screen and (max-width:445px) {
+    .header{
+        color: #F1DEC6;
+        height: 140px;
+    }   
+}
+@media screen and (max-width: 445px) {
+    .border{
+        width: 46%;
+        height: 200px;
+    }
+    
+}
+@media screen and (max-width: 445px) {
+    .border2{
+        width: 46%;
+        height: 200px;
+    }
+    
+}
+@media screen and (max-width: 445px) {
+    .border3{
+        width: 46%;
+        height: 200px;
+    }
+    
+}
+@media screen and (max-width: 445px) {
+    .border4{
+        width: 46%;
+        height: 200px;
+    }
+    
+}
+@media screen and (max-width: 445px) {
+    .border5{
+        width: 46%;
+        height: 200px;
+    }
+    
+}
+@media screen and (max-width: 445px) {
+    .border6{
+        width: 46%;
+        height: 200px;
+    }
+    
+}
+
+
+
+
+@media screen and (max-width:266px) {
+    .header{
+        color: #FF8A8A;
+        height: 100px;
+    }   
+}
+@media screen and (max-width: 266px) {
+    .border{
+        width: 91%;
+        height: 150px;
+    }
+    
+}
+@media screen and (max-width: 266px) {
+    .border2{
+        width: 91%;
+        height: 150px;
+    }
+    
+}
+@media screen and (max-width: 266px) {
+    .border3{
+        width: 91%;
+        height: 150px;
+    }
+    
+}
+@media screen and (max-width: 266px) {
+    .border4{
+        width: 91%;
+        height: 150px;
+    }
+    
+}
+@media screen and (max-width: 266px) {
+    .border5{
+        width: 91%;
+        height: 150px;
+    }
+    
+}
+@media screen and (max-width: 266px) {
+    .border6{
+        width: 91%;
+        height: 150px;
+    }
+    
+}
+
+@media screen and (max-width: 644px){
+      .footer-2{
+        width: 29%;
+      }
+
+}
+    
+@media screen and (max-width: 542px){
+    .footer-2{
+      width: 27%;
+    }
+
+}
+
+@media screen and (max-width: 480px){
+    .footer-2{
+      width: 30%;
+    }
+
+}
+
+
+@media screen and (max-width: 425px){
+    .footer-2{
+      width: 95%;
+    }
+
+}
+
+
+
+    
